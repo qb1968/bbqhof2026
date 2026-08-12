@@ -1,79 +1,79 @@
 [
     {
         "id": 1,
-        "thumb": "ECH_1098.jpg",
+        "thumb": "ECH_1098.webp",
         "icon": "icon fa fa-expand-arrows-alt",
         "animation": "fadeIn"
     },
     {
         "id": 2,
-        "thumb": "ECH_1099.jpg",
+        "thumb": "ECH_1099.webp",
         "icon": "icon fa fa-expand-arrows-alt",
         "animation": "fadeIn"
     },
     {
         "id": 3,
-        "thumb": "ECH_1115.jpg",
+        "thumb": "ECH_1115.webp",
         "icon": "icon fa fa-expand-arrows-alt",
         "animation": "fadeIn"
     },
     {
         "id": 4,
-        "thumb": "ECH_1118.jpg",
+        "thumb": "ECH_1118.webp",
         "icon": "icon fa fa-expand-arrows-alt",
         "animation": "fadeIn"
     },
     {
         "id": 5,
-        "thumb": "ECH_1127.jpg",
+        "thumb": "ECH_1127.webp",
         "icon": "icon fa fa-expand-arrows-alt",
         "animation": "fadeIn"
     },
     {
         "id": 6,
-        "thumb": "ECH_1148.jpg",
+        "thumb": "ECH_1148.webp",
         "icon": "icon fa fa-expand-arrows-alt",
         "animation": "fadeIn"
     },
     {
         "id": 7,
-        "thumb": "ECH_1166.jpg",
+        "thumb": "ECH_1166.webp",
         "icon": "icon fa fa-expand-arrows-alt",
         "animation": "fadeIn"
     },
     {
         "id": 8,
-        "thumb": "ECH_1174.jpg",
+        "thumb": "ECH_1174.webp",
         "icon": "icon fa fa-expand-arrows-alt",
         "animation": "fadeIn"
     },
     {
         "id":9 ,
-        "thumb": "ECH_1175.jpg",
+        "thumb": "ECH_1175.webp",
         "icon": "icon fa fa-expand-arrows-alt",
         "animation": "fadeIn"
     },
     {
         "id": 10,
-        "thumb": "ECH_1181.jpg",
+        "thumb": "ECH_1181.webp",
         "icon": "icon fa fa-expand-arrows-alt",
         "animation": "fadeIn"
     },
     {
         "id": 11,
-        "thumb": "ECH_1187.jpg",
+        "thumb": "ECH_1187.webp",
         "icon": "icon fa fa-expand-arrows-alt",
         "animation": "fadeIn"
     },
     {
         "id": 12,
-        "thumb": "ECH_1189.jpg",
+        "thumb": "ECH_1189.webp",
         "icon": "icon fa fa-expand-arrows-alt",
         "animation": "fadeIn"
     },
     {
         "id": 13,
-        "thumb": "ECH_1209.jpg",
+        "thumb": "ECH_1209.webp",
         "icon": "icon fa fa-expand-arrows-alt",
         "animation": "fadeIn"
     }
