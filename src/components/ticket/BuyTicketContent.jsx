@@ -48,6 +48,12 @@ const BuyTicketContent = () => {
                   height: "auto",
                   display: "block",
                   margin: "0 auto",
+                  borderRadius: "15px",
+                  filter: "brightness(0.72)",
+
+                  // ✨ Glow around the flyer
+                  boxShadow:
+                    "0 0 10px #ff0000, 0 0 25px #ff0000, 0 0 50px #ff4500, 0 0 80px rgba(255, 69, 0, 0.8)",
                 }}
               />
             </div>
