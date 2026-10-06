@@ -18,7 +18,7 @@
     "react-bootstrap": "^2.10.2",
     "react-countup": "^6.5.0",
     "react-dom": "^18.2.0",
-    "react-helmet": "^6.1.0",
+    "react-helmet-async": "^3.0.0",
     "react-modal-video": "^2.0.1",
     "react-paginate": "^8.2.0",
     "react-paypal-button-v2": "^2.6.3",

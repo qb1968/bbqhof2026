@@ -6,13 +6,13 @@
         "clientData": [
             {
                 "id": 6,
-                "clientThumb": "cob.png",
-                "link": "https://burlingtonnc.gov/"
+                "clientThumb": "Shift4.png",
+                "link": ""
             },
              {
                 "id": 2,
-                "clientThumb": "bw.png",
-                "link": "https://www.bestwestern.com/en_US/book/hotel-rooms.34053.html?iata=00171880&ssob=BLBWI0004G&cid=BLBWI0004G:google:gmb:34053"
+                "clientThumb": "gc.jpg",
+                "link": ""
             },
             
             {
@@ -33,8 +33,8 @@
             },
             {
                 "id": 4,
-                "clientThumb": "coffee.png",
-                "link": "https://www.capcoff.com/"
+                "clientThumb": "dp.jpg",
+                "link": ""
             }
             
         ]

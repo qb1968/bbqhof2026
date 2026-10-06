@@ -14,7 +14,8 @@ import ClientV1 from '../../components/client/ClientV1';
 import RegisterV1 from '../../components/form/RegisterV1';
 import BlogV1 from '../../components/blog/BlogV1';
 import FooterV1 from '../../components/footer/FooterV1';
-import SpeakerV3 from '../../components/speaker/SpeakerV3';
+import SpeakerV4 from '../../components/speaker/SpeakerV4';
+import Nominees2026 from '../../components/2026Nominees';
 
 
 const Home1 = () => {
@@ -27,7 +28,7 @@ const Home1 = () => {
           <ComingSoonV1 />
           <AboutV1 />
           {/* <FeatureV1 /> */}
-          <SpeakerV3 />
+          <Nominees2026 />
           {/* <FactV1 /> */}
           {/* <ScheduleV1 /> */}
           {/* <PriceV1 /> */}
